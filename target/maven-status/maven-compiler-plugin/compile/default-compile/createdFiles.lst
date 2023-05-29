@@ -1,0 +1,3 @@
+com\snc\discovery\CredentialResolver.class
+com\snc\discovery\AWSCredentialResolver.class
+com\snc\discovery\FileCredentialResolver.class
