@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 20
+Class-Path: aws-lambda-java-core-1.2.2.jar slf4j-simple-2.0.7.jar secret
+ smanager-2.20.47.jar aws-json-protocol-2.20.47.jar third-party-jackson-
+ core-2.20.47.jar protocol-core-2.20.47.jar sdk-core-2.20.47.jar reactiv
+ e-streams-1.0.3.jar auth-2.20.47.jar eventstream-1.0.1.jar http-client-
+ spi-2.20.47.jar annotations-2.20.47.jar utils-2.20.47.jar aws-core-2.20
+ .47.jar metrics-spi-2.20.47.jar json-utils-2.20.47.jar endpoints-spi-2.
+ 20.47.jar apache-client-2.20.47.jar httpclient-4.5.13.jar commons-loggi
+ ng-1.2.jar httpcore-4.4.13.jar commons-codec-1.15.jar netty-nio-client-
+ 2.20.47.jar netty-codec-http-4.1.86.Final.jar netty-codec-http2-4.1.86.
+ Final.jar netty-codec-4.1.86.Final.jar netty-transport-4.1.86.Final.jar
+  netty-resolver-4.1.86.Final.jar netty-common-4.1.86.Final.jar netty-bu
+ ffer-4.1.86.Final.jar netty-handler-4.1.86.Final.jar netty-transport-na
+ tive-unix-common-4.1.86.Final.jar netty-transport-classes-epoll-4.1.86.
+ Final.jar regions-2.20.47.jar profiles-2.20.47.jar slf4j-api-2.0.7.jar 
+ json-20230227.jar
+Main-Class: com.snc.discovery.CredentialResolver
+Created-By: Maven Integration for Eclipse
+
