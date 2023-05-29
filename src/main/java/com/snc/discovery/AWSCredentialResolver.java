@@ -7,7 +7,7 @@ import software.amazon.awssdk.services.secretsmanager.model.GetSecretValueRespon
 import org.json.*;
 
 /*
- This is invoked from CredentialResolver
+ This is invoked from CredentialResolver.java
  */
 public class AWSCredentialResolver {
 
